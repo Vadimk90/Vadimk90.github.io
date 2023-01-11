@@ -10,10 +10,12 @@
 }
 
 .banner h1 {
-    font-size: 100px;
+    padding: 10%, 50%, 80%;
+    font-size: 300px;
     font-weight: bold;
     color: khaki;
     text-align: center;
+    letter-spacing: 3px;
 }
 
 .banner h2 {
@@ -22,4 +24,5 @@
   border-bottom: 4px solid #ffb78c;
   font-size: 1.44rem;
   letter-spacing: 2px;
+  text-transform: uppercase;
 }
