@@ -1,13 +1,26 @@
- 
-* {
-background: url("https://images.prismic.io/saatva-blog/b8938dc2-e39d-419c-8b0d-fcaced7cc9f1_best-candles-for-sleep-main.jpeg?fm=webp,jpg&auto=compress,format&w=1200&h=630&fit=crop&crop=faces") center center no-repeat;
+.banner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 50rem;
+  background: url("https://images.prismic.io/saatva-blog/b8938dc2-e39d-419c-8b0d-fcaced7cc9f1_best-candles-for-sleep-main.jpeg") center center no-repeat;
+  background-size: cover;
+  color: #ffb78c;
 }
 
-h1 {
+.banner h1 {
     font-family: Helvetica;
     font-size: 100px;
     font-weight: bold;
     color: khaki;
-    background-image: url(../images/pattern.webp);
     text-align: center;
+}
+
+.banner h2 {
+  padding: .55rem 0;
+  border-top: 4px solid #ffb78c;
+  border-bottom: 4px solid #ffb78c;
+  font-size: 1.44rem;
+  letter-spacing: 2px;
 }
