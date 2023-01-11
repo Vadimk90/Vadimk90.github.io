@@ -1,3 +1,8 @@
+ 
+* {
+background: url("https://images.prismic.io/saatva-blog/b8938dc2-e39d-419c-8b0d-fcaced7cc9f1_best-candles-for-sleep-main.jpeg?fm=webp,jpg&auto=compress,format&w=1200&h=630&fit=crop&crop=faces") center center no-repeat;
+}
+
 h1 {
     font-family: Helvetica;
     font-size: 100px;
