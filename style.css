@@ -32,7 +32,7 @@
     font-weight: 700;
 }
 
-@media only screen and (max-width: 425px) {
+@media only screen and (max-width: 600px) {
     .navigation {
         display: none;
     }
@@ -191,7 +191,7 @@
 }
 
 
-@media only screen and (max-width: 425px) {
+@media only screen and (max-width: 600px) {
     .examples-container {
         display: grid;
         gap: 0;
@@ -299,7 +299,7 @@
     }
 }
 
-@media only screen and (max-width: 425px) {
+@media only screen and (max-width: 600px) {
     .masters-containers {
         gap: 0.25rem;
         margin: 0;
@@ -337,7 +337,7 @@
     margin: auto 3rem;
 }
 
-@media only screen and (max-width: 425px) {
+@media only screen and (max-width: 600px) {
     .footer-container p {
          margin: 0 auto;
     }
