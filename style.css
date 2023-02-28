@@ -40,7 +40,7 @@
         justify-content: center;
     }
     .logo {
-        font-size: 3rem;
+        font-size: 2.5rem;
     }
 }
 
@@ -85,7 +85,7 @@
     }
 
     .main-text h1 {
-        font-size: 2rem;
+        font-size: 1.5rem;
     }
 }
 /* Discription */
@@ -208,7 +208,7 @@
 
     .examples-container p {
         position: absolute;
-        font-size: 2rem;
+        font-size: 1.5rem;
         margin: 60% auto;
    }
 
@@ -311,7 +311,7 @@
         font-size: 2rem;
     }
     .masters-containers h4 {
-        font-size: 1rem;
+        font-size: 0.725rem;
     }
     .masters-containers p {
         display: none;
